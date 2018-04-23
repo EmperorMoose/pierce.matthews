@@ -7,7 +7,7 @@ I am a Senior Computer Science student at the University of South Carolina. I ha
 
 ### [Link to Github](https://github.com/EmperorMoose)
 
-### [Link to LinkedIn](https://www.linkedin.com/in/adam-matthews-48323311b/)
+### [Link to LinkedIn](www.linkedin.com/in/adam-pierce-matthews)
 
 ## Experience
 
