@@ -2,14 +2,11 @@
 
 I am a Senior Computer Science student at the University of South Carolina. I have been programming professionally for around 3 years, and have been a hobbist for 10.
 
-### Email
-* pmatt42@gmail.com
+### [Email](pmatt42@gmail.com)
 
-### Github
-* https://github.com/EmperorMoose
+### [Github](https://github.com/EmperorMoose)
 
-### LinkedIn
-* https://www.linkedin.com/in/adam-matthews-48323311b/
+### [LinkedIn](https://www.linkedin.com/in/adam-matthews-48323311b/)
 
 ## Experience
 
@@ -20,9 +17,11 @@ I am a Senior Computer Science student at the University of South Carolina. I ha
   * Trained new employees.
   * Conducted client meetings and weekly standups.
  
+ 
 * Web Development Intern - Center for Digital Humanities (August 2016 - July 2017)
   * Developed a Django based site as part of a team.
   * Required knowledge of Phyton, PostgresSQL, PHP, TEI, and XML.
+  
   
 * Web Development Intern - Revenflo (May 2015 - August 2015)
   * Worked as part of a team to develop a .NET MVC site. 
@@ -37,11 +36,13 @@ I am a Senior Computer Science student at the University of South Carolina. I ha
   * Managed team members assignments.
   * Managed git repo.
   * Required knowledge of Android API, Java, and Amazon AWS Services.
-  * https://github.com/SCCapstone/Bodylight
+  * [Link to repo](https://github.com/SCCapstone/Bodylight)
+  
   
 * Blockchain Project - University of South Carolina (November 2017)
   * Created a simulation of blockchain transactions in C++
-  * https://github.com/EmperorMoose/CSCE-350/tree/master/matthews_Adam_CSCE350
+  * [Link to repo](https://github.com/EmperorMoose/CSCE-350/tree/master/matthews_Adam_CSCE350)
+  
   
 ## Relevant Coursework
 * AP Computer Science
