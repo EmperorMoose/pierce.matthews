@@ -2,7 +2,8 @@
 
 I am a Senior Computer Science student at the University of South Carolina. I have been programming professionally for around 3 years, and have been a hobbist for 10.
 
-### [Email](pmatt42@gmail.com)
+### Email
+* pmatt42@gmail.com
 
 ### [Github](https://github.com/EmperorMoose)
 
