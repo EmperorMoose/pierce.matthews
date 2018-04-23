@@ -5,9 +5,9 @@ I am a Senior Computer Science student at the University of South Carolina. I ha
 ### Email
 * pmatt42@gmail.com
 
-### [Github](https://github.com/EmperorMoose)
+### [Link to Github](https://github.com/EmperorMoose)
 
-### [LinkedIn](https://www.linkedin.com/in/adam-matthews-48323311b/)
+### [Link to LinkedIn](https://www.linkedin.com/in/adam-matthews-48323311b/)
 
 ## Experience
 
