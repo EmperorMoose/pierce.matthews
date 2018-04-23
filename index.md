@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/EmperorMoose/pierce.matthews/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Senior Computer Science student at the University of South Carolina. I have been programming professionally for around 3 years, and have been a hobbist for 10.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Email
+* pmatt42@gmail.com
 
-### Markdown
+### Github
+* https://github.com/EmperorMoose
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LinkedIn
+* https://www.linkedin.com/in/adam-matthews-48323311b/
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+* Lead Web Development Intern - Center for Digital Humanities (August 2017 - May 2018)
+  * Led a team of students in the development of a MEAN Stack based site.
+  * Required knowledge of Angular 4, MONGO DB, Express.js, and Node.js
+  * Conducted Technical Interviews
+  * Trained new employees.
+  * Conducted client meetings and weekly standups.
+ 
+* Web Development Intern - Center for Digital Humanities (August 2016 - July 2017)
+  * Developed a Django based site as part of a team.
+  * Required knowledge of Phyton, PostgresSQL, PHP, TEI, and XML.
+  
+* Web Development Intern - Revenflo (May 2015 - August 2015)
+  * Worked as part of a team to develop a .NET MVC site. 
+  * Required knowledge of C# and SQL.
+  
+## Relevant Projects
 
-- Bulleted
-- List
+* Capstone Project Team Lead - University of South Carolina (August 2017 - May 2018)
+  * Led a team of fellow students in creating an exercise android app for a client. 
+  * Worked in Android Studio.
+  * Conducted client meetings.
+  * Managed team members assignments.
+  * Managed git repo.
+  * Required knowledge of Android API, Java, and Amazon AWS Services.
+  * https://github.com/SCCapstone/Bodylight
+  
+* Blockchain Project - University of South Carolina (November 2017)
+  * Created a simulation of blockchain transactions in C++
+  * https://github.com/EmperorMoose/CSCE-350/tree/master/matthews_Adam_CSCE350
+  
+## Relevant Coursework
+* AP Computer Science
+* Computer Science 101
+* Programming Logic & Design
+* Algorithmic Design 2 
+* Linux Fundamentals 
+* Digital Logic
+* Assembly Programming
+* Operating Systems 
+* Computer Architecture
+* Programming Language Structures
+* Data Structures and Algorithms
+* Computer Networking
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmperorMoose/pierce.matthews/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
