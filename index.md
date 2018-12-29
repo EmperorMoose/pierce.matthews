@@ -1,15 +1,22 @@
 ## About me
 
-I am a Senior Computer Science student at the University of South Carolina. I have been programming professionally for around 3 years, and have been a hobbist for 10.
+I am a Senior Computer Science student at the University of South Carolina. I have been programming professionally for around 4 years, and have been a hobbist for 11. I also co-run a web development firm, Euterpe Solutions LLC.
 
 ### Email
-* pmatt42@gmail.com
+* Personal
+  * pmatt42@gmail.com
+* Work
+  * pierce@euterpesolutions.com
 
 ### [Link to Github](https://github.com/EmperorMoose)
 
 ### [Link to LinkedIn](www.linkedin.com/in/adam-pierce-matthews)
 
 ## Experience
+
+* Co-Founder and Lead Developer - Euterpe Solutions
+  * Coordinated with Clients to produce exemplary products
+  * Developed applications for a variety of platforms including MEAN Stack, WordPress, and Android
 
 * Lead Web Development Intern - Center for Digital Humanities (August 2017 - May 2018)
   * Led a team of students in the development of a MEAN Stack based site.
